@@ -1,4 +1,4 @@
-# OGBoost
+# OGBOOST - SMM PANEL
 Repository for https://ogboost.com SMM Panel - The #1, automatic, cheapest and most efficient social media panel.
 Join the other 10,000+ clients who, like you, are craving success. You know you want to start your own online business as an SMM reseller. With OGBoost, you have the most amazing services available to you.
 
